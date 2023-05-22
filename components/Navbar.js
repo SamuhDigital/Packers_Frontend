@@ -41,7 +41,7 @@ const Navbar = ({ user, logout }) => {
                   onClick={logout}
                   className=" bg-sky-400 px-2 py-1 rounded-md text-sm text-white mx-2"
                 >
-                  logut
+                  logout
                 </button>
               </Link>
             )}
